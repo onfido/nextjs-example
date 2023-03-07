@@ -1,8 +1,11 @@
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
-First, run the development server:
+1. Replace the token in `components/Onfido.tsx` with a valid SDK token
+2. Then run the development server:
 
 ```bash
 npm run dev
